@@ -1,0 +1,7 @@
+insert into product (id, name, description ) values (1,'Piano','piano')
+insert into product (id, name, description ) values (4,'Violin','Violin')
+insert into product (id, name, description ) values (3,'Drums','piano')
+insert into product (id, name, description ) values (6,'Flute','piano')
+insert into product (id, name, description ) values (5,'Guitar','piano')
+insert into product (id, name, description ) values (2,'String','piano')
+insert into product (id, name, description ) values (10,'Tabla' , 'tabla')
